@@ -1,0 +1,169 @@
+Date,Kick-off,Home team,Away team,Location,Confirmed?,BT Sport?
+2017-09-01,18:45,Gloucester Rugby,Exeter Chiefs,Kingsholm,N
+2017-09-01,18:45,Newcastle Falcons,Worcester Warriors,Kingston Park,N
+2017-09-02,13:00,Saracens,Northampton Saints,Twickenham Stadium,N
+2017-09-02,14:00,Wasps,Sale Sharks,Ricoh Arena,N
+2017-09-02,15:45,London Irish,Harlequins,Twickenham Stadium,N
+2017-09-03,14:00,Leicester Tigers,Bath Rugby,Welford Road,N
+2017-09-08,18:45,Sale Sharks,Newcastle Falcons,AJ Bell Stadium,N
+2017-09-09,13:00,Bath Rugby,Saracens,Recreation Ground,N
+2017-09-09,14:00,Exeter Chiefs,London Irish,Sandy Park,N
+2017-09-09,14:00,Harlequins,Gloucester Rugby,Twickenham Stoop,N
+2017-09-09,15:30,Northampton Saints,Leicester Tigers,Franklin's Gardens,N
+2017-09-10,14:00,Worcester Warriors,Wasps,Sixways,N
+2017-09-15,18:45,Northampton Saints,Bath Rugby,Franklin's Gardens,N
+2017-09-15,18:45,Worcester Warriors,Exeter Chiefs,Sixways,N
+2017-09-15,19:00,Sale Sharks,London Irish,AJ Bell Stadium,N
+2017-09-16,14:00,Leicester Tigers,Gloucester Rugby,Welford Road,N
+2017-09-16,21:00,Newcastle Falcons,Saracens,Talen Energy Stadium,N
+2017-09-17,14:00,Wasps,Harlequins,Ricoh Arena,N
+2017-09-22,18:45,Gloucester Rugby,Worcester Warriors,Kingsholm,N
+2017-09-23,14:00,Bath Rugby,Newcastle Falcons,Recreation Ground,N
+2017-09-23,14:00,Harlequins,Leicester Tigers,Twickenham Stoop,N
+2017-09-23,14:00,Saracens,Sale Sharks,Allianz Park,N
+2017-09-24,14:00,Exeter Chiefs,Wasps,Sandy Park,N
+2017-09-24,14:00,London Irish,Northampton Saints,Madejski Stadium,N
+2017-09-29,18:45,Newcastle Falcons,London Irish,Kingston Park,N
+2017-09-29,18:45,Worcester Warriors,Saracens,Sixways,N
+2017-09-29,19:00,Sale Sharks,Gloucester Rugby,AJ Bell Stadium,N
+2017-09-30,14:00,Leicester Tigers,Exeter Chiefs,Welford Road,N
+2017-09-30,14:00,Northampton Saints,Harlequins,Franklin's Gardens,N
+2017-10-01,14:00,Wasps,Bath Rugby,Ricoh Arena,N
+2017-10-06,18:45,Harlequins,Sale Sharks,Twickenham Stoop,N
+2017-10-07,14:00,Bath Rugby,Worcester Warriors,Recreation Ground,N
+2017-10-07,14:00,Exeter Chiefs,Newcastle Falcons,Sandy Park,N
+2017-10-07,14:00,Gloucester Rugby,Northampton Saints,Kingsholm,N
+2017-10-07,14:00,London Irish,Leicester Tigers,Madejski Stadium,N
+2017-10-08,14:00,Saracens,Wasps,Allianz Park,N
+2017-10-27,18:45,Sale Sharks,Exeter Chiefs,AJ Bell Stadium,N
+2017-10-28,14:00,Harlequins,Worcester Warriors,Twickenham Stoop,N
+2017-10-28,14:00,Northampton Saints,Wasps,Franklin's Gardens,N
+2017-10-28,14:00,Saracens,London Irish,Allianz Park,N
+2017-10-29,15:00,Bath Rugby,Gloucester Rugby,Recreation Ground,N
+2017-10-29,15:00,Newcastle Falcons,Leicester Tigers,Kingston Park,N
+2017-11-17,19:45,Gloucester Rugby,Saracens,Kingsholm,N
+2017-11-18,13:00,Worcester Warriors,Northampton Saints,Sixways,N
+2017-11-18,17:15,Wasps,Newcastle Falcons,Ricoh Arena,N
+2017-11-19,15:00,Exeter Chiefs,Harlequins,Sandy Park,N
+2017-11-19,15:00,Leicester Tigers,Sale Sharks,Welford Road,N
+2017-11-19,15:00,London Irish,Bath Rugby,Madejski Stadium,N
+2017-11-24,19:45,Newcastle Falcons,Gloucester Rugby,Kingston Park,N
+2017-11-25,12:45,Bath Rugby,Harlequins,Recreation Ground,N
+2017-11-25,15:00,Leicester Tigers,Worcester Warriors,Welford Road,N
+2017-11-25,17:30,Sale Sharks,Northampton Saints,AJ Bell Stadium,N
+2017-11-26,15:00,London Irish,Wasps,Madejski Stadium,N
+2017-11-26,15:00,Saracens,Exeter Chiefs,Allianz Park,N
+2017-12-01,19:45,Northampton Saints,Newcastle Falcons,Franklin's Gardens,N
+2017-12-01,19:45,Worcester Warriors,Sale Sharks,Sixways,N
+2017-12-02,14:00,Exeter Chiefs,Bath Rugby,Sandy Park,N
+2017-12-02,15:00,Gloucester Rugby,London Irish,Kingsholm,N
+2017-12-02,16:30,Wasps,Leicester Tigers,Ricoh Arena,N
+2017-12-03,15:00,Harlequins,Saracens,Twickenham Stoop,N
+2017-12-22,19:45,Worcester Warriors,London Irish,Sixways,N
+2017-12-23,15:00,Newcastle Falcons,Harlequins,Kingston Park,N
+2017-12-23,15:00,Northampton Saints,Exeter Chiefs,Franklin's Gardens,N
+2017-12-23,15:00,Sale Sharks,Bath Rugby,AJ Bell Stadium,N
+2017-12-23,15:00,Wasps,Gloucester Rugby,Ricoh Arena,N
+2017-12-24,15:00,Leicester Tigers,Saracens,Welford Road,N
+2017-12-29,19:45,Bath Rugby,Wasps,Recreation Ground,N
+2017-12-30,15:00,Gloucester Rugby,Sale Sharks,Kingsholm,N
+2017-12-30,15:00,London Irish,Newcastle Falcons,Madejski Stadium,N
+2017-12-30,15:00,Saracens,Worcester Warriors,Allianz Park,N
+2017-12-30,16:00,Harlequins,Northampton Saints,Twickenham Stadium,N
+2017-12-31,15:00,Exeter Chiefs,Leicester Tigers,Sandy Park,Y
+2018-01-05,19:45,Worcester Warriors,Bath Rugby,Sixways,Y
+2018-01-06,15:00,Leicester Tigers,London Irish,Welford Road,N
+2018-01-06,15:00,Northampton Saints,Gloucester Rugby,Franklin's Gardens,Y
+2018-01-06,15:00,Sale Sharks,Harlequins,AJ Bell Stadium,N
+2018-01-07,15:00,Newcastle Falcons,Exeter Chiefs,Kingston Park,N
+2018-01-07,15:00,Wasps,Saracens,Ricoh Arena,Y
+2018-02-09,19:45,Bath Rugby,Northampton Saints,Recreation Ground,Y
+2018-02-10,14:00,Exeter Chiefs,Worcester Warriors,Sandy Park,N
+2018-02-10,14:30,Gloucester Rugby,Leicester Tigers,Kingsholm,N
+2018-02-10,14:30,Saracens,Newcastle Falcons,Allianz Park,N
+2018-02-10,15:00,London Irish,Sale Sharks,Madejski Stadium,N
+2018-02-11,13:00,Harlequins,Wasps,Twickenham Stoop,Y
+2018-02-16,19:45,Newcastle Falcons,Bath Rugby,Kingston Park,N
+2018-02-16,19:45,Sale Sharks,Saracens,AJ Bell Stadium,Y
+2018-02-17,15:00,Leicester Tigers,Harlequins,Welford Road,Y
+2018-02-17,15:00,Northampton Saints,London Irish,Franklin's Gardens,N
+2018-02-17,15:00,Worcester Warriors,Gloucester Rugby,Sixways,N
+2018-02-18,15:00,Wasps,Exeter Chiefs,Ricoh Arena,Y
+2018-02-24,14:00,Exeter Chiefs,Northampton Saints,Sandy Park,N
+2018-02-24,14:30,Bath Rugby,Sale Sharks,Recreation Ground,N
+2018-02-24,14:30,Gloucester Rugby,Wasps,Kingsholm,N
+2018-02-24,15:00,Harlequins,Newcastle Falcons,Twickenham Stoop,N
+2018-02-25,13:00,London Irish,Worcester Warriors,Madejski Stadium,Y
+2018-02-25,15:30,Saracens,Leicester Tigers,Allianz Park,Y
+2018-03-02,19:45,Harlequins,Bath Rugby,Twickenham Stoop,Y
+2018-03-03,15:00,Exeter Chiefs,Saracens,Sandy Park,Y
+2018-03-03,15:00,Gloucester Rugby,Newcastle Falcons,Kingsholm,N
+2018-03-03,15:00,Northampton Saints,Sale Sharks,Franklin's Gardens,N
+2018-03-04,15:00,Wasps,London Irish,Ricoh Arena,N
+2018-03-04,15:00,Worcester Warriors,Leicester Tigers,Sixways,Y
+2018-03-23,19:45,Bath Rugby,Exeter Chiefs,Recreation Ground,Y
+2018-03-24,15:00,London Irish,Gloucester Rugby,Madejski Stadium,N
+2018-03-24,15:00,Sale Sharks,Worcester Warriors,AJ Bell Stadium,N
+2018-03-24,15:00,Saracens,Harlequins,London (Olympic) Stadium,Y
+2018-03-24,17:30,Newcastle Falcons,Northampton Saints,St James's Park,Y
+2018-03-25,14:00,Leicester Tigers,Wasps,Welford Road,Y
+2018-04-06,TBC,Bath Rugby,Leicester Tigers,Twickenham Stadium,N
+2018-04-07,TBC,Bath Rugby,Leicester Tigers,Twickenham Stadium,N
+2018-04-08,TBC,Bath Rugby,Leicester Tigers,Twickenham Stadium,N
+2018-04-06,TBC,Exeter Chiefs,Gloucester Rugby,Sandy Park,N
+2018-04-07,TBC,Exeter Chiefs,Gloucester Rugby,Sandy Park,N
+2018-04-08,TBC,Exeter Chiefs,Gloucester Rugby,Sandy Park,N
+2018-04-06,TBC,Harlequins,London Irish,Twickenham Stoop,N
+2018-04-07,TBC,Harlequins,London Irish,Twickenham Stoop,N
+2018-04-08,TBC,Harlequins,London Irish,Twickenham Stoop,N
+2018-04-06,TBC,Northampton Saints,Saracens,Franklin's Gardens,N
+2018-04-07,TBC,Northampton Saints,Saracens,Franklin's Gardens,N
+2018-04-08,TBC,Northampton Saints,Saracens,Franklin's Gardens,N
+2018-04-06,TBC,Sale Sharks,Wasps,AJ Bell Stadium,N
+2018-04-07,TBC,Sale Sharks,Wasps,AJ Bell Stadium,N
+2018-04-08,TBC,Sale Sharks,Wasps,AJ Bell Stadium,N
+2018-04-06,TBC,Worcester Warriors,Newcastle Falcons,Sixways,N
+2018-04-07,TBC,Worcester Warriors,Newcastle Falcons,Sixways,N
+2018-04-08,TBC,Worcester Warriors,Newcastle Falcons,Sixways,N
+2018-04-13,TBC,Gloucester Rugby,Harlequins,Kingsholm,N
+2018-04-14,TBC,Gloucester Rugby,Harlequins,Kingsholm,N
+2018-04-15,TBC,Gloucester Rugby,Harlequins,Kingsholm,N
+2018-04-13,TBC,Leicester Tigers,Northampton Saints,Welford Road,N
+2018-04-14,TBC,Leicester Tigers,Northampton Saints,Welford Road,N
+2018-04-15,TBC,Leicester Tigers,Northampton Saints,Welford Road,N
+2018-04-13,TBC,London Irish,Exeter Chiefs,Madejski Stadium,N
+2018-04-14,TBC,London Irish,Exeter Chiefs,Madejski Stadium,N
+2018-04-15,TBC,London Irish,Exeter Chiefs,Madejski Stadium,N
+2018-04-13,TBC,Newcastle Falcons,Sale Sharks,Kingston Park,N
+2018-04-14,TBC,Newcastle Falcons,Sale Sharks,Kingston Park,N
+2018-04-15,TBC,Newcastle Falcons,Sale Sharks,Kingston Park,N
+2018-04-13,TBC,Saracens,Bath Rugby,Allianz Park,N
+2018-04-14,TBC,Saracens,Bath Rugby,Allianz Park,N
+2018-04-15,TBC,Saracens,Bath Rugby,Allianz Park,N
+2018-04-13,TBC,Wasps,Worcester Warriors,Ricoh Arena,N
+2018-04-14,TBC,Wasps,Worcester Warriors,Ricoh Arena,N
+2018-04-15,TBC,Wasps,Worcester Warriors,Ricoh Arena,N
+2018-04-27,TBC,Exeter Chiefs,Sale Sharks,Sandy Park,N
+2018-04-28,TBC,Exeter Chiefs,Sale Sharks,Sandy Park,N
+2018-04-29,TBC,Exeter Chiefs,Sale Sharks,Sandy Park,N
+2018-04-27,TBC,Gloucester Rugby,Bath Rugby,Kingsholm,N
+2018-04-28,TBC,Gloucester Rugby,Bath Rugby,Kingsholm,N
+2018-04-29,TBC,Gloucester Rugby,Bath Rugby,Kingsholm,N
+2018-04-27,TBC,Leicester Tigers,Newcastle Falcons,Welford Road,N
+2018-04-28,TBC,Leicester Tigers,Newcastle Falcons,Welford Road,N
+2018-04-29,TBC,Leicester Tigers,Newcastle Falcons,Welford Road,N
+2018-04-27,TBC,London Irish,Saracens,Madejski Stadium,N
+2018-04-28,TBC,London Irish,Saracens,Madejski Stadium,N
+2018-04-29,TBC,London Irish,Saracens,Madejski Stadium,N
+2018-04-27,TBC,Wasps,Northampton Saints,Ricoh Arena,N
+2018-04-28,TBC,Wasps,Northampton Saints,Ricoh Arena,N
+2018-04-29,TBC,Wasps,Northampton Saints,Ricoh Arena,N
+2018-04-27,TBC,Worcester Warriors,Harlequins,Sixways,N
+2018-04-28,TBC,Worcester Warriors,Harlequins,Sixways,N
+2018-04-29,TBC,Worcester Warriors,Harlequins,Sixways,N
+2018-05-05,TBC,Bath Rugby,London Irish,Recreation Ground,N
+2018-05-05,TBC,Harlequins,Exeter Chiefs,Twickenham Stoop,N
+2018-05-05,TBC,Newcastle Falcons,Wasps,Kingston Park,N
+2018-05-05,TBC,Northampton Saints,Worcester Warriors,Franklin's Gardens,N
+2018-05-05,TBC,Sale Sharks,Leicester Tigers,AJ Bell Stadium,N
+2018-05-05,TBC,Saracens,Gloucester Rugby,Allianz Park,N
