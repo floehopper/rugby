@@ -1,0 +1,31 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'ri_cal'
+require 'csv'
+
+CSV do |csv|
+  csv << ['Date', 'Kick-off', 'Home team', 'Away team', 'Location', 'BT Sport?']
+  File.open(ARGV[0], 'r') do |file|
+    calendar = RiCal.parse(file)[0]
+    calendar.events.each do |event|
+      if event.summary[%r{ v }]
+        home_side, away_side = event.summary.split(%r{ v })
+      elsif event.summary[%r{ \d+ - \d+ }]
+        home_side, away_side = event.summary.split(%r{ \d+ - \d+ })
+      else
+        raise
+      end
+      confirmed = !home_side.sub!(%r(^TBC\:), '')
+      bt_sport = away_side.sub!(%r(BT Sport$), '') ? 'Y' : 'N'
+      csv << [
+        event.start_time.strftime('%F'),
+        confirmed ? event.start_time.strftime('%H:%M') : 'TBC',
+        home_side.strip,
+        away_side.strip,
+        event.location,
+        bt_sport
+      ]
+    end
+  end
+end
