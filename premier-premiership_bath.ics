@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sotic Ltd//EN
+METHOD:PUBLISH
+X-PRIMARY-CALENDAR:TRUE
+X-MS-OLK-WKHRSTART;TZID="GMT Standard Time":080000
+X-MS-OLK-WKHREND;TZID="GMT Standard Time":170000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH,FR
+BEGIN:VEVENT
+DTSTAMP:20171228T212648Z
+DTSTART:20170903T140000Z
+DTEND:20170903T140000Z
+SUMMARY:Leicester Tigers 23 - 27 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228688
+UID:20170903T140000ZLeicester Tigers 23 - 27 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212648Z
+DTSTART:20170909T130000Z
+DTEND:20170909T130000Z
+SUMMARY:Bath Rugby 31 - 21 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228693
+UID:20170909T130000ZBath Rugby 31 - 21 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212648Z
+DTSTART:20170915T184500Z
+DTEND:20170915T184500Z
+SUMMARY:Northampton Saints 24 - 6 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228701
+UID:20170915T184500ZNorthampton Saints 24 - 6 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212648Z
+DTSTART:20170923T140000Z
+DTEND:20170923T140000Z
+SUMMARY:Bath Rugby 32 - 33 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228705
+UID:20170923T140000ZBath Rugby 32 - 33 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212649Z
+DTSTART:20171001T140000Z
+DTEND:20171001T140000Z
+SUMMARY:Wasps 9 - 25 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228715
+UID:20171001T140000ZWasps 9 - 25 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212649Z
+DTSTART:20171007T140000Z
+DTEND:20171007T140000Z
+SUMMARY:Bath Rugby 29 - 13 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228717
+UID:20171007T140000ZBath Rugby 29 - 13 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212649Z
+DTSTART:20171029T150000Z
+DTEND:20171029T150000Z
+SUMMARY:Bath Rugby 21 - 22 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228723
+UID:20171029T150000ZBath Rugby 21 - 22 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212650Z
+DTSTART:20171119T150000Z
+DTEND:20171119T150000Z
+SUMMARY:London Irish 18 - 22 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Madejski Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228732
+UID:20171119T150000ZLondon Irish 18 - 22 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212650Z
+DTSTART:20171125T124500Z
+DTEND:20171125T124500Z
+SUMMARY:Bath Rugby 38 - 14 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228735
+UID:20171125T124500ZBath Rugby 38 - 14 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212650Z
+DTSTART:20171202T140000Z
+DTEND:20171202T140000Z
+SUMMARY:Exeter Chiefs 42 - 29 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228741
+UID:20171202T140000ZExeter Chiefs 42 - 29 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212651Z
+DTSTART:20171223T150000Z
+DTEND:20171223T150000Z
+SUMMARY:Sale Sharks 32 - 9 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228750
+UID:20171223T150000ZSale Sharks 32 - 9 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212651Z
+DTSTART:20171229T194500Z
+DTEND:20171229T194500Z
+SUMMARY:Bath Rugby v Wasps BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228753
+UID:20171229T194500ZBath Rugby v Wasps BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212651Z
+DTSTART:20180105T194500Z
+DTEND:20180105T194500Z
+SUMMARY:Worcester Warriors v Bath Rugby BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228764
+UID:20180105T194500ZWorcester Warriors v Bath Rugby BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212651Z
+DTSTART:20180209T194500Z
+DTEND:20180209T194500Z
+SUMMARY:Bath Rugby v Northampton Saints BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228765
+UID:20180209T194500ZBath Rugby v Northampton Saints BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212652Z
+DTSTART:20180216T194500Z
+DTEND:20180216T194500Z
+SUMMARY:Newcastle Falcons v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228772
+UID:20180216T194500ZNewcastle Falcons v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212652Z
+DTSTART:20180224T143000Z
+DTEND:20180224T143000Z
+SUMMARY:Bath Rugby v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228777
+UID:20180224T143000ZBath Rugby v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212652Z
+DTSTART:20180302T194500Z
+DTEND:20180302T194500Z
+SUMMARY:Harlequins v Bath Rugby BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228785
+UID:20180302T194500ZHarlequins v Bath Rugby BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212652Z
+DTSTART:20180323T194500Z
+DTEND:20180323T194500Z
+SUMMARY:Bath Rugby v Exeter Chiefs BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228789
+UID:20180323T194500ZBath Rugby v Exeter Chiefs BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180407
+SUMMARY:TBC: Bath Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228795
+UID:20180406TBC: Bath Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180408
+SUMMARY:TBC: Bath Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228795
+UID:20180407TBC: Bath Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180409
+SUMMARY:TBC: Bath Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228795
+UID:20180408TBC: Bath Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180413
+DTEND;VALUE=DATE:20180414
+SUMMARY:TBC: Saracens v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228805
+UID:20180413TBC: Saracens v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180415
+SUMMARY:TBC: Saracens v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228805
+UID:20180414TBC: Saracens v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180416
+SUMMARY:TBC: Saracens v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228805
+UID:20180415TBC: Saracens v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180428
+SUMMARY:TBC: Gloucester Rugby v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228808
+UID:20180427TBC: Gloucester Rugby v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180429
+SUMMARY:TBC: Gloucester Rugby v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228808
+UID:20180428TBC: Gloucester Rugby v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180430
+SUMMARY:TBC: Gloucester Rugby v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228808
+UID:20180429TBC: Gloucester Rugby v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171228T212653Z
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+SUMMARY:TBC: Bath Rugby v London Irish 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228813
+UID:20180505TBC: Bath Rugby v London Irish 
+END:VEVENT
+END:VCALENDAR

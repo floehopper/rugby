@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sotic Ltd//EN
+METHOD:PUBLISH
+X-PRIMARY-CALENDAR:TRUE
+X-MS-OLK-WKHRSTART;TZID="GMT Standard Time":080000
+X-MS-OLK-WKHREND;TZID="GMT Standard Time":170000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH,FR
+BEGIN:VEVENT
+DTSTAMP:20171230T074317Z
+DTSTART:20170903T140000Z
+DTEND:20170903T140000Z
+SUMMARY:Leicester Tigers 23 - 27 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228688
+UID:20170903T140000ZLeicester Tigers 23 - 27 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074317Z
+DTSTART:20170909T153000Z
+DTEND:20170909T153000Z
+SUMMARY:Northampton Saints 24 - 11 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228696
+UID:20170909T153000ZNorthampton Saints 24 - 11 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074317Z
+DTSTART:20170916T140000Z
+DTEND:20170916T140000Z
+SUMMARY:Leicester Tigers 24 - 10 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228699
+UID:20170916T140000ZLeicester Tigers 24 - 10 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074318Z
+DTSTART:20170923T140000Z
+DTEND:20170923T140000Z
+SUMMARY:Harlequins 28 - 31 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228708
+UID:20170923T140000ZHarlequins 28 - 31 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074318Z
+DTSTART:20170930T140000Z
+DTEND:20170930T140000Z
+SUMMARY:Leicester Tigers 20 - 13 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228711
+UID:20170930T140000ZLeicester Tigers 20 - 13 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074318Z
+DTSTART:20171007T140000Z
+DTEND:20171007T140000Z
+SUMMARY:London Irish 27 - 28 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Madejski Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228721
+UID:20171007T140000ZLondon Irish 27 - 28 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074318Z
+DTSTART:20171029T150000Z
+DTEND:20171029T150000Z
+SUMMARY:Newcastle Falcons 13 - 30 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228725
+UID:20171029T150000ZNewcastle Falcons 13 - 30 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074319Z
+DTSTART:20171119T150000Z
+DTEND:20171119T150000Z
+SUMMARY:Leicester Tigers 35 - 27 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228731
+UID:20171119T150000ZLeicester Tigers 35 - 27 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074319Z
+DTSTART:20171125T150000Z
+DTEND:20171125T150000Z
+SUMMARY:Leicester Tigers 27 - 31 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228736
+UID:20171125T150000ZLeicester Tigers 27 - 31 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074319Z
+DTSTART:20171202T163000Z
+DTEND:20171202T163000Z
+SUMMARY:Wasps 32 - 25 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228745
+UID:20171202T163000ZWasps 32 - 25 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074320Z
+DTSTART:20171224T150000Z
+DTEND:20171224T150000Z
+SUMMARY:Leicester Tigers 17 - 29 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228747
+UID:20171224T150000ZLeicester Tigers 17 - 29 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074320Z
+DTSTART:20171231T150000Z
+DTEND:20171231T150000Z
+SUMMARY:Exeter Chiefs v Leicester Tigers BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228754
+UID:20171231T150000ZExeter Chiefs v Leicester Tigers BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074320Z
+DTSTART:20180106T150000Z
+DTEND:20180106T150000Z
+SUMMARY:Leicester Tigers v London Irish 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228759
+UID:20180106T150000ZLeicester Tigers v London Irish 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074320Z
+DTSTART:20180210T143000Z
+DTEND:20180210T143000Z
+SUMMARY:Gloucester Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228767
+UID:20180210T143000ZGloucester Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074321Z
+DTSTART:20180217T150000Z
+DTEND:20180217T150000Z
+SUMMARY:Leicester Tigers v Harlequins BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228771
+UID:20180217T150000ZLeicester Tigers v Harlequins BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074321Z
+DTSTART:20180225T153000Z
+DTEND:20180225T153000Z
+SUMMARY:Saracens v Leicester Tigers BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228782
+UID:20180225T153000ZSaracens v Leicester Tigers BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074321Z
+DTSTART:20180304T150000Z
+DTEND:20180304T150000Z
+SUMMARY:Worcester Warriors v Leicester Tigers BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228788
+UID:20180304T150000ZWorcester Warriors v Leicester Tigers BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART:20180325T140000Z
+DTEND:20180325T140000Z
+SUMMARY:Leicester Tigers v Wasps BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228790
+UID:20180325T140000ZLeicester Tigers v Wasps BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180407
+SUMMARY:TBC: Bath Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228795
+UID:20180406TBC: Bath Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180408
+SUMMARY:TBC: Bath Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228795
+UID:20180407TBC: Bath Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180409
+SUMMARY:TBC: Bath Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228795
+UID:20180408TBC: Bath Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180413
+DTEND;VALUE=DATE:20180414
+SUMMARY:TBC: Leicester Tigers v Northampton Saints 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228802
+UID:20180413TBC: Leicester Tigers v Northampton Saints 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180415
+SUMMARY:TBC: Leicester Tigers v Northampton Saints 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228802
+UID:20180414TBC: Leicester Tigers v Northampton Saints 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180416
+SUMMARY:TBC: Leicester Tigers v Northampton Saints 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228802
+UID:20180415TBC: Leicester Tigers v Northampton Saints 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180428
+SUMMARY:TBC: Leicester Tigers v Newcastle Falcons 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228809
+UID:20180427TBC: Leicester Tigers v Newcastle Falcons 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180429
+SUMMARY:TBC: Leicester Tigers v Newcastle Falcons 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228809
+UID:20180428TBC: Leicester Tigers v Newcastle Falcons 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074322Z
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180430
+SUMMARY:TBC: Leicester Tigers v Newcastle Falcons 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228809
+UID:20180429TBC: Leicester Tigers v Newcastle Falcons 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171230T074323Z
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+SUMMARY:TBC: Sale Sharks v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228817
+UID:20180505TBC: Sale Sharks v Leicester Tigers 
+END:VEVENT
+END:VCALENDAR

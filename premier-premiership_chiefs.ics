@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sotic Ltd//EN
+METHOD:PUBLISH
+X-PRIMARY-CALENDAR:TRUE
+X-MS-OLK-WKHRSTART;TZID="GMT Standard Time":080000
+X-MS-OLK-WKHREND;TZID="GMT Standard Time":170000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH,FR
+BEGIN:VEVENT
+DTSTAMP:20171226T010723Z
+DTSTART:20170901T184500Z
+DTEND:20170901T184500Z
+SUMMARY:Gloucester Rugby 28 - 21 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228687
+UID:20170901T184500ZGloucester Rugby 28 - 21 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010723Z
+DTSTART:20170909T140000Z
+DTEND:20170909T140000Z
+SUMMARY:Exeter Chiefs 37 - 7 London Irish
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228694
+UID:20170909T140000ZExeter Chiefs 37 - 7 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010723Z
+DTSTART:20170915T184500Z
+DTEND:20170915T184500Z
+SUMMARY:Worcester Warriors 10 - 41 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228704
+UID:20170915T184500ZWorcester Warriors 10 - 41 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010724Z
+DTSTART:20170924T140000Z
+DTEND:20170924T140000Z
+SUMMARY:Exeter Chiefs 31 - 17 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228706
+UID:20170924T140000ZExeter Chiefs 31 - 17 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010724Z
+DTSTART:20170930T140000Z
+DTEND:20170930T140000Z
+SUMMARY:Leicester Tigers 20 - 13 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228711
+UID:20170930T140000ZLeicester Tigers 20 - 13 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010724Z
+DTSTART:20171007T140000Z
+DTEND:20171007T140000Z
+SUMMARY:Exeter Chiefs 34 - 24 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228718
+UID:20171007T140000ZExeter Chiefs 34 - 24 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010724Z
+DTSTART:20171027T184500Z
+DTEND:20171027T184500Z
+SUMMARY:Sale Sharks 6 - 10 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228727
+UID:20171027T184500ZSale Sharks 6 - 10 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010725Z
+DTSTART:20171119T150000Z
+DTEND:20171119T150000Z
+SUMMARY:Exeter Chiefs 31 - 17 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228729
+UID:20171119T150000ZExeter Chiefs 31 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010725Z
+DTSTART:20171126T150000Z
+DTEND:20171126T150000Z
+SUMMARY:Saracens 18 - 20 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228740
+UID:20171126T150000ZSaracens 18 - 20 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010725Z
+DTSTART:20171202T140000Z
+DTEND:20171202T140000Z
+SUMMARY:Exeter Chiefs 42 - 29 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228741
+UID:20171202T140000ZExeter Chiefs 42 - 29 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010726Z
+DTSTART:20171223T150000Z
+DTEND:20171223T150000Z
+SUMMARY:Northampton Saints 14 - 35 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228749
+UID:20171223T150000ZNorthampton Saints 14 - 35 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010726Z
+DTSTART:20171231T150000Z
+DTEND:20171231T150000Z
+SUMMARY:Exeter Chiefs v Leicester Tigers BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228754
+UID:20171231T150000ZExeter Chiefs v Leicester Tigers BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010726Z
+DTSTART:20180107T150000Z
+DTEND:20180107T150000Z
+SUMMARY:Newcastle Falcons v Exeter Chiefs 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228760
+UID:20180107T150000ZNewcastle Falcons v Exeter Chiefs 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010726Z
+DTSTART:20180210T140000Z
+DTEND:20180210T140000Z
+SUMMARY:Exeter Chiefs v Worcester Warriors 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228766
+UID:20180210T140000ZExeter Chiefs v Worcester Warriors 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010727Z
+DTSTART:20180218T150000Z
+DTEND:20180218T150000Z
+SUMMARY:Wasps v Exeter Chiefs BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228775
+UID:20180218T150000ZWasps v Exeter Chiefs BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010727Z
+DTSTART:20180224T140000Z
+DTEND:20180224T140000Z
+SUMMARY:Exeter Chiefs v Northampton Saints 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228778
+UID:20180224T140000ZExeter Chiefs v Northampton Saints 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010727Z
+DTSTART:20180303T150000Z
+DTEND:20180303T150000Z
+SUMMARY:Exeter Chiefs v Saracens BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228783
+UID:20180303T150000ZExeter Chiefs v Saracens BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010727Z
+DTSTART:20180323T194500Z
+DTEND:20180323T194500Z
+SUMMARY:Bath Rugby v Exeter Chiefs BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228789
+UID:20180323T194500ZBath Rugby v Exeter Chiefs BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180407
+SUMMARY:TBC: Exeter Chiefs v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228796
+UID:20180406TBC: Exeter Chiefs v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180408
+SUMMARY:TBC: Exeter Chiefs v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228796
+UID:20180407TBC: Exeter Chiefs v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180409
+SUMMARY:TBC: Exeter Chiefs v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228796
+UID:20180408TBC: Exeter Chiefs v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180413
+DTEND;VALUE=DATE:20180414
+SUMMARY:TBC: London Irish v Exeter Chiefs 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Madejski Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228803
+UID:20180413TBC: London Irish v Exeter Chiefs 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180415
+SUMMARY:TBC: London Irish v Exeter Chiefs 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Madejski Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228803
+UID:20180414TBC: London Irish v Exeter Chiefs 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180416
+SUMMARY:TBC: London Irish v Exeter Chiefs 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Madejski Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228803
+UID:20180415TBC: London Irish v Exeter Chiefs 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180428
+SUMMARY:TBC: Exeter Chiefs v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228807
+UID:20180427TBC: Exeter Chiefs v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180429
+SUMMARY:TBC: Exeter Chiefs v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228807
+UID:20180428TBC: Exeter Chiefs v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010728Z
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180430
+SUMMARY:TBC: Exeter Chiefs v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228807
+UID:20180429TBC: Exeter Chiefs v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171226T010729Z
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+SUMMARY:TBC: Harlequins v Exeter Chiefs 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228814
+UID:20180505TBC: Harlequins v Exeter Chiefs 
+END:VEVENT
+END:VCALENDAR

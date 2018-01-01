@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sotic Ltd//EN
+METHOD:PUBLISH
+X-PRIMARY-CALENDAR:TRUE
+X-MS-OLK-WKHRSTART;TZID="GMT Standard Time":080000
+X-MS-OLK-WKHREND;TZID="GMT Standard Time":170000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH,FR
+BEGIN:VEVENT
+DTSTAMP:20171225T195423Z
+DTSTART:20170901T184500Z
+DTEND:20170901T184500Z
+SUMMARY:Gloucester Rugby 28 - 21 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228687
+UID:20170901T184500ZGloucester Rugby 28 - 21 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195423Z
+DTSTART:20170909T140000Z
+DTEND:20170909T140000Z
+SUMMARY:Harlequins 28 - 17 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228695
+UID:20170909T140000ZHarlequins 28 - 17 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195424Z
+DTSTART:20170916T140000Z
+DTEND:20170916T140000Z
+SUMMARY:Leicester Tigers 24 - 10 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228699
+UID:20170916T140000ZLeicester Tigers 24 - 10 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195424Z
+DTSTART:20170922T184500Z
+DTEND:20170922T184500Z
+SUMMARY:Gloucester Rugby 24 - 19 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228707
+UID:20170922T184500ZGloucester Rugby 24 - 19 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195424Z
+DTSTART:20170929T190000Z
+DTEND:20170929T190000Z
+SUMMARY:Sale Sharks 57 - 10 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228714
+UID:20170929T190000ZSale Sharks 57 - 10 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195424Z
+DTSTART:20171007T140000Z
+DTEND:20171007T140000Z
+SUMMARY:Gloucester Rugby 29 - 24 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228719
+UID:20171007T140000ZGloucester Rugby 29 - 24 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195425Z
+DTSTART:20171029T150000Z
+DTEND:20171029T150000Z
+SUMMARY:Bath Rugby 21 - 22 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228723
+UID:20171029T150000ZBath Rugby 21 - 22 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195425Z
+DTSTART:20171117T194500Z
+DTEND:20171117T194500Z
+SUMMARY:Gloucester Rugby 23 - 17 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228730
+UID:20171117T194500ZGloucester Rugby 23 - 17 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195425Z
+DTSTART:20171124T194500Z
+DTEND:20171124T194500Z
+SUMMARY:Newcastle Falcons 7 - 29 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228738
+UID:20171124T194500ZNewcastle Falcons 7 - 29 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195426Z
+DTSTART:20171202T150000Z
+DTEND:20171202T150000Z
+SUMMARY:Gloucester Rugby 39 - 15 London Irish
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228742
+UID:20171202T150000ZGloucester Rugby 39 - 15 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195426Z
+DTSTART:20171223T150000Z
+DTEND:20171223T150000Z
+SUMMARY:Wasps 49 - 24 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228751
+UID:20171223T150000ZWasps 49 - 24 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195426Z
+DTSTART:20171230T150000Z
+DTEND:20171230T150000Z
+SUMMARY:Gloucester Rugby v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228755
+UID:20171230T150000ZGloucester Rugby v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195426Z
+DTSTART:20180106T150000Z
+DTEND:20180106T150000Z
+SUMMARY:Northampton Saints v Gloucester Rugby BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228761
+UID:20180106T150000ZNorthampton Saints v Gloucester Rugby BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195427Z
+DTSTART:20180210T143000Z
+DTEND:20180210T143000Z
+SUMMARY:Gloucester Rugby v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228767
+UID:20180210T143000ZGloucester Rugby v Leicester Tigers 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195427Z
+DTSTART:20180217T150000Z
+DTEND:20180217T150000Z
+SUMMARY:Worcester Warriors v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228776
+UID:20180217T150000ZWorcester Warriors v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195427Z
+DTSTART:20180224T143000Z
+DTEND:20180224T143000Z
+SUMMARY:Gloucester Rugby v Wasps 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228779
+UID:20180224T143000ZGloucester Rugby v Wasps 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART:20180303T150000Z
+DTEND:20180303T150000Z
+SUMMARY:Gloucester Rugby v Newcastle Falcons 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228784
+UID:20180303T150000ZGloucester Rugby v Newcastle Falcons 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART:20180324T150000Z
+DTEND:20180324T150000Z
+SUMMARY:London Irish v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Madejski Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228791
+UID:20180324T150000ZLondon Irish v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180407
+SUMMARY:TBC: Exeter Chiefs v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228796
+UID:20180406TBC: Exeter Chiefs v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180408
+SUMMARY:TBC: Exeter Chiefs v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228796
+UID:20180407TBC: Exeter Chiefs v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180409
+SUMMARY:TBC: Exeter Chiefs v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228796
+UID:20180408TBC: Exeter Chiefs v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART;VALUE=DATE:20180413
+DTEND;VALUE=DATE:20180414
+SUMMARY:TBC: Gloucester Rugby v Harlequins 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228801
+UID:20180413TBC: Gloucester Rugby v Harlequins 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180415
+SUMMARY:TBC: Gloucester Rugby v Harlequins 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228801
+UID:20180414TBC: Gloucester Rugby v Harlequins 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195428Z
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180416
+SUMMARY:TBC: Gloucester Rugby v Harlequins 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228801
+UID:20180415TBC: Gloucester Rugby v Harlequins 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195429Z
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180428
+SUMMARY:TBC: Gloucester Rugby v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228808
+UID:20180427TBC: Gloucester Rugby v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195429Z
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180429
+SUMMARY:TBC: Gloucester Rugby v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228808
+UID:20180428TBC: Gloucester Rugby v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195429Z
+DTSTART;VALUE=DATE:20180429
+DTEND;VALUE=DATE:20180430
+SUMMARY:TBC: Gloucester Rugby v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228808
+UID:20180429TBC: Gloucester Rugby v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171225T195429Z
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+SUMMARY:TBC: Saracens v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=228818
+UID:20180505TBC: Saracens v Gloucester Rugby 
+END:VEVENT
+END:VCALENDAR
